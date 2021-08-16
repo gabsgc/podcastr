@@ -37,7 +37,7 @@ $ yarn dev
 # Run Server
 $ yarn server
 ```
-## ❔ Dúvidas
+## ❔ Questions
 If there are any questions regarding this repository, send it to gabriellagarccia@gmail.com
 
 Made with ❤︎ by Gabriela Garcia.
